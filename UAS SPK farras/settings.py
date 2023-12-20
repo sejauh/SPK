@@ -1,0 +1,5 @@
+USER = 'postgres'
+PASSWORD = 'farastampan'
+HOST = 'localhost'
+PORT = '5432'
+DATABASE_NAME = 'faras'
